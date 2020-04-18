@@ -1,0 +1,5 @@
+How to play :
+open the Motion_Detection.py and run it 
+open the Final_Project processing file and start the game
+when connection is established webcam will be on and use your palm to slide up to jump and slide down to duck.
+Make sure your room has very low lighting conditon for better performance.
